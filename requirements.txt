@@ -3,7 +3,7 @@ certifi==2023.5.7
 channels==4.0.0
 charset-normalizer==3.2.0
 click==8.1.6
-Django==4.1.8
+Django==3.2.20
 django-cors-headers==4.2.0
 djangorestframework==3.14.0
 gunicorn==21.2.0
