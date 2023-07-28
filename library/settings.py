@@ -141,7 +141,7 @@ REST_FRAMEWORK = {
 CORS_ALLOW_ORIGIN = '*'
 CSRF_COOKIE_HTTPONLY = True
 CORS_ALLOW_CREDENTIALS = True
-CSRF_TRUSTED_ORIGINS = ['http://localhost:3000']
+CSRF_TRUSTED_ORIGINS = ['https://sidekik-frontend.onrender.com']
 
 
 

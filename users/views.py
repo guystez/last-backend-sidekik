@@ -97,7 +97,7 @@ class Get_payment(views.APIView):
             "createDocument": "True",
             "DisplayType": "iframe",
 			"PostProcessMethod": 0,
-            'RedirectAddress':"http://localhost:3000/thankyoupage/"
+            'RedirectAddress':"https://sidekik-frontend.onrender.com/thankyoupage/"
         }
        
 
